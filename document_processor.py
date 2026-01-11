@@ -13,9 +13,9 @@ class DocumentProcessor:
             chunk_size=Config.CHUNK_SIZE,
             chunk_overlap=Config.CHUNK_OVERLAP
         )
+        # OpenAI API key is automatically read from OPENAI_API_KEY environment variable
         self.embeddings = OpenAIEmbeddings(
-            model=Config.EMBEDDING_MODEL,
-            openai_api_key=Config.OPENAI_API_KEY
+            model=Config.EMBEDDING_MODEL
         )
         
     def load_document(self, file_path):

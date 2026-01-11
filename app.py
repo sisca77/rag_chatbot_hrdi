@@ -94,18 +94,29 @@ def main():
                     
                     # Process each uploaded file
                     for uploaded_file in uploaded_files:
-                        # Save to temporary file
-                        with tempfile.NamedTemporaryFile(delete=False, suffix=os.path.splitext(uploaded_file.name)[1]) as tmp_file:
-                            tmp_file.write(uploaded_file.getvalue())
-                            tmp_path = tmp_file.name
+                        # Validate file extension
+                        file_ext = os.path.splitext(uploaded_file.name)[1].lower()
+                        if file_ext not in ['.pdf', '.txt']:
+                            st.warning(f"Skipping unsupported file: {uploaded_file.name}")
+                            continue
                         
-                        # Load and process document
-                        documents = st.session_state.doc_processor.load_document(tmp_path)
-                        chunks = st.session_state.doc_processor.process_documents(documents)
-                        all_chunks.extend(chunks)
-                        
-                        # Clean up temporary file
-                        os.unlink(tmp_path)
+                        # Save to temporary file with secure permissions
+                        tmp_fd, tmp_path = tempfile.mkstemp(suffix=file_ext)
+                        try:
+                            # Write file content
+                            with os.fdopen(tmp_fd, 'wb') as tmp_file:
+                                tmp_file.write(uploaded_file.getvalue())
+                            
+                            # Load and process document
+                            documents = st.session_state.doc_processor.load_document(tmp_path)
+                            chunks = st.session_state.doc_processor.process_documents(documents)
+                            all_chunks.extend(chunks)
+                        finally:
+                            # Always clean up temporary file
+                            try:
+                                os.unlink(tmp_path)
+                            except OSError:
+                                pass  # File may already be deleted
                     
                     # Create vector store
                     st.session_state.vector_store = st.session_state.doc_processor.create_vector_store(all_chunks)
