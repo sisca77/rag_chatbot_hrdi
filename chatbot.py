@@ -10,7 +10,7 @@ class RAGChatbot:
     def __init__(self, vector_store=None):
         # OpenAI API key is automatically read from OPENAI_API_KEY environment variable
         self.llm = ChatOpenAI(
-            model_name=Config.LLM_MODEL,
+            model=Config.LLM_MODEL,
             temperature=Config.TEMPERATURE,
             max_tokens=Config.MAX_TOKENS
         )
