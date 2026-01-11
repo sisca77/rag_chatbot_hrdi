@@ -55,4 +55,7 @@ data/
 documents/
 *.pdf
 *.docx
-*.txt
+
+# Keep sample documents but ignore user uploads
+!sample_documents/
+!sample_documents/*.txt

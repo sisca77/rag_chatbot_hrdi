@@ -1,0 +1,196 @@
+HRDI Training Schedule - 2024
+
+Q1 Training Programs (January - March)
+
+Leadership Development Series
+Date: January 15-17, 2024
+Duration: 3 days
+Location: Main Conference Room
+Topics:
+- Strategic thinking and planning
+- Team building and motivation
+- Conflict resolution
+- Change management
+Instructor: Dr. Sarah Johnson
+Capacity: 25 participants
+Registration Deadline: January 8, 2024
+
+Technical Skills Workshop: Python Programming
+Date: February 5-9, 2024
+Duration: 5 days
+Location: Computer Lab A
+Topics:
+- Python basics and syntax
+- Data structures and algorithms
+- Web development with Flask
+- Data analysis with pandas
+Instructor: Michael Chen
+Capacity: 15 participants
+Prerequisites: Basic programming knowledge
+Registration Deadline: January 29, 2024
+
+Communication Excellence Training
+Date: March 12-13, 2024
+Duration: 2 days
+Location: Training Center
+Topics:
+- Professional email writing
+- Presentation skills
+- Active listening techniques
+- Cross-cultural communication
+Instructor: Lisa Anderson
+Capacity: 30 participants
+Registration Deadline: March 5, 2024
+
+Q2 Training Programs (April - June)
+
+Project Management Certification Prep
+Date: April 22-26, 2024
+Duration: 5 days
+Location: Main Conference Room
+Topics:
+- PMP exam preparation
+- Project planning and scheduling
+- Risk management
+- Stakeholder management
+Instructor: Robert Williams
+Capacity: 20 participants
+Cost: $500 (reimbursed upon certification)
+Registration Deadline: April 15, 2024
+
+Data Analytics Bootcamp
+Date: May 13-17, 2024
+Duration: 5 days
+Location: Computer Lab B
+Topics:
+- Excel advanced functions
+- SQL database queries
+- Data visualization with Tableau
+- Statistical analysis
+Instructor: Dr. Emily Martinez
+Capacity: 18 participants
+Prerequisites: Basic Excel knowledge
+Registration Deadline: May 6, 2024
+
+Emotional Intelligence Workshop
+Date: June 18-19, 2024
+Duration: 2 days
+Location: Training Center
+Topics:
+- Self-awareness and self-regulation
+- Empathy and social skills
+- Stress management
+- Building resilient teams
+Instructor: Dr. James Thompson
+Capacity: 25 participants
+Registration Deadline: June 11, 2024
+
+Q3 Training Programs (July - September)
+
+Cybersecurity Awareness Training
+Date: July 8-9, 2024
+Duration: 2 days
+Location: Computer Lab A
+Topics:
+- Information security best practices
+- Password management
+- Phishing detection
+- Data protection regulations
+Instructor: David Lee
+Capacity: 30 participants
+Mandatory: For all IT staff
+Registration Deadline: July 1, 2024
+
+Innovation and Design Thinking
+Date: August 20-22, 2024
+Duration: 3 days
+Location: Innovation Lab
+Topics:
+- Design thinking methodology
+- Brainstorming techniques
+- Rapid prototyping
+- User-centered design
+Instructor: Maria Rodriguez
+Capacity: 20 participants
+Registration Deadline: August 13, 2024
+
+Financial Management for Non-Finance Managers
+Date: September 10-12, 2024
+Duration: 3 days
+Location: Main Conference Room
+Topics:
+- Reading financial statements
+- Budgeting and forecasting
+- Cost-benefit analysis
+- Financial decision-making
+Instructor: Richard Brown
+Capacity: 25 participants
+Registration Deadline: September 3, 2024
+
+Q4 Training Programs (October - December)
+
+Advanced Excel and VBA Programming
+Date: October 15-18, 2024
+Duration: 4 days
+Location: Computer Lab B
+Topics:
+- Advanced formulas and functions
+- Pivot tables and charts
+- Macro creation
+- VBA programming basics
+Instructor: Jennifer Wilson
+Capacity: 15 participants
+Prerequisites: Intermediate Excel knowledge
+Registration Deadline: October 8, 2024
+
+Customer Service Excellence
+Date: November 5-6, 2024
+Duration: 2 days
+Location: Training Center
+Topics:
+- Customer service fundamentals
+- Handling difficult customers
+- Service recovery strategies
+- Building customer loyalty
+Instructor: Patricia Garcia
+Capacity: 30 participants
+Registration Deadline: October 29, 2024
+
+Year-End Leadership Summit
+Date: December 10-12, 2024
+Duration: 3 days
+Location: Offsite Venue (TBD)
+Topics:
+- 2024 performance review
+- 2025 strategic planning
+- Industry trends and forecasts
+- Networking and team building
+Speakers: Executive Leadership Team
+Capacity: 50 participants
+Invitation only: Management level and above
+Registration Deadline: November 26, 2024
+
+Registration Process
+1. Visit the HRDI Portal at hrdi.company.com
+2. Navigate to Training Calendar
+3. Select desired training program
+4. Complete registration form
+5. Obtain supervisor approval
+6. Receive confirmation email
+
+Cancellation Policy
+- Cancellations must be made at least 5 business days before the training start date
+- Late cancellations may result in training fee charges
+- No-shows will be charged the full training fee
+
+Training Attendance Policy
+- Attendance is mandatory for all registered sessions
+- Participants must attend at least 90% of training hours to receive certification
+- Training materials will be provided on the first day
+- Certificates of completion issued within 2 weeks after training
+
+For More Information
+Contact HRDI Training Coordinator:
+Email: training@company.com
+Phone: (555) 123-4568
+Office: Building B, Room 205
